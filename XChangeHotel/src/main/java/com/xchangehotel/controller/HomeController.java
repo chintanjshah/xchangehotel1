@@ -18,6 +18,10 @@ import com.xchangehotel.service.UserService;
 /**
  * Handles requests for the application home page.
  */
+ 
+ /*
+ * Again Added at 7 PM
+ */
 @Controller
 public class HomeController{
 	
