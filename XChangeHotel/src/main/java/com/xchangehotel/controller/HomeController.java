@@ -18,6 +18,10 @@ import com.xchangehotel.service.UserService;
 /**
  * Handles requests for the application home page.
  */
+ 
+ /*
+ * Demo Ready By CHintan
+ */
 @Controller
 public class HomeController{
 	
